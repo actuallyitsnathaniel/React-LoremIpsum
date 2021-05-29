@@ -51,7 +51,7 @@ Super simple, if you've used git before.
 Simply import the function like so in your React index.js, or wherever you want it:
 
 ```JavaScript
-import {LoremIpsum} from './components/LoremIpsum'
+import {LoremIpsum} from './components/React-LoremIpsum'
 ```
 
 Then call it as just a closing tag like so:
