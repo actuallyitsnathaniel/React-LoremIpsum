@@ -39,7 +39,7 @@ So it should essentially look like this:
 
 ```
 cd components
-git clone <repo>
+git clone <https://github.com/actuallyitsnathaniel/React-LoremIpsum.git>
 ```
 
 Super simple, if you've used git before.  
