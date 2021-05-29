@@ -77,15 +77,21 @@ Anyways, I created this component for React because I just wanted to make a comp
 <pre>Cicero. <i>On Obligations</i>. Translated with an introduction and notes by P. G. Walsh.
     Oxford World Classics. Oxford, UK: Oxford University Press, 2000 (reissued 2008).
 
-"The philosopher who claims that the highest good has no connection with virtue, and measures it by his own interests rather than by what is honorable, cannot cultivate friendship, justice, or generosity so long as he remains consistent in his views and is not prevailed upon by his own nature." (p. 4)
+"The philosopher who claims that the highest good has no connection with virtue, and measures it by 
+his own interests rather than by what is honorable, cannot cultivate friendship, justice, or generosity 
+so long as he remains consistent in his views and is not prevailed upon by his own nature." (p. 4)
 
-“We usually ask ourselves not only whether some action is honorable or base, but also, when there are two honorable courses of action, which is the more honorable; and again, if two useful courses lie open to us, which is the more useful.” (p. 6)
+“We usually ask ourselves not only whether some action is honorable or base, but also, when there are 
+two honorable courses of action, which is the more honorable; and again, if two useful courses lie open 
+to us, which is the more useful.” (p. 6)
 
 “In Plato’s words, ‘If wisdom could be seen with the eyes, it would arouse astonishing feelings of love for it.’” (p. 7)
 
-“The more clearly a person sees the essential truth of a situation, and the keener and swifter is his ability to grasp and explain its logic, the more prudent and wise he is commonly and justifiably regarded.” (p. 8)
+“The more clearly a person sees the essential truth of a situation, and the keener and swifter is 
+his ability to grasp and explain its logic, the more prudent and wise he is commonly and justifiably regarded.” (p. 8)
 
 “The foundation of justice is good faith, in other words truthfully abiding by our words and agreements.” (p. 10)
 
-“Certain obligations must be met even when they are owed to persons who have wronged us, for revenge and punishments have their due limits.” (p. 13)
+“Certain obligations must be met even when they are owed to persons who have wronged us, for 
+revenge and punishments have their due limits.” (p. 13)
 </pre>
